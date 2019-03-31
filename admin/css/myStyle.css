@@ -1,0 +1,13 @@
+@media screen and (max-width: 460px) {
+    .container_12 .grid_2{
+        width:40%;
+        float: left;
+    }
+    .container_12 .grid_10{
+        width: 50%;
+        float: left;
+    }
+    .block{
+        width:100%;
+    }
+}
